@@ -7,4 +7,4 @@
 | -------------------| -----------------------|
 | ```cd my-app```    | ```cd sib```           |
 | ```npm install```  | ```npm install```      |
-| ```npm run start```| ```npm run start:dev```|
+| ```npm run start```| ```npm run start```|
