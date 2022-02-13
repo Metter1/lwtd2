@@ -1,0 +1,45 @@
+.input__icon_favorite:hover{
+  color: #ff4d4f;
+}
+
+.search__input{
+  max-width: 700px;
+  margin: 0 auto;
+  display: block;
+}
+
+.search__input_active{
+  max-width: 100%;
+}
+
+.input__icon_favorite{
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.split{
+  color: #8c8c8c;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.split__icon_active{
+  color: #262626;
+}
+
+.split__icon{
+  font-size: 24px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.video__text{
+  font-size: 20px;
+}
+
+.cart__title{
+  font-size: 16px;
+  line-height: 20px;
+}
+

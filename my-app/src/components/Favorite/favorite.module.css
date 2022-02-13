@@ -1,0 +1,35 @@
+.favorite__item{
+  height: 47px;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #F1F1F1;
+  display: flex;
+  align-items: center;
+}
+
+.favorite__title{
+  margin-left: 20px;
+}
+
+.favorite__buttons{
+  margin-right: 20px;
+  margin-left: auto;
+}
+
+.favorite__button {
+  margin-left: 10px;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+.favorite__button_change{
+  color: #1390E5;
+}
+
+.favorite__button_call {
+  color: #389e0d;
+}
+
+.favorite__button_remove{
+  color: #ff8c9f;
+}
